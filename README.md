@@ -7,6 +7,8 @@ In this project, I will use Linux commands to configure authorization. The resea
 
 <h3>Checking File and Directory Details</h3>
 The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system.
+<br />
+<br />
 
 <p align="center">
 <img src="https://i.imgur.com/pmMOzNl.png" height="70%" width="70%" alt="Linux 1"/> </p>
